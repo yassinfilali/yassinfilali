@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassin FILALI</h1>
-<h3 align="center">An aspiring software developer and computer science student. I'm currently honing my skills in C# MVC .NET, and I have previous experience working on diverse projects, ranging from chess games in Java to web development using HTML, CSS, JavaScript, jQuery, and PHP with the Laravel framework. Additionally, I have a background in C and C++. I'm passionate about coding and eager to contribute to the world of technology.</h3>
+<h3 align="justify">An aspiring software developer and computer science student. I'm currently honing my skills in C# MVC .NET, and I have previous experience working on diverse projects, ranging from chess games in Java to web development using HTML, CSS, JavaScript, jQuery, and PHP with the Laravel framework. Additionally, I have a background in C and C++. I'm passionate about coding and eager to contribute to the world of technology.</h3>
 
-- I am currently working on a C# .NET MVC application for parcel delivery management. **LivaC**
+- I am currently working on a C# .NET MVC application for parcel delivery management **LivaC**
 
 - 🌱 I’m currently learning **C# .NET**
 
